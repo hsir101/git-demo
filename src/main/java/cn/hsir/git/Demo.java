@@ -6,5 +6,6 @@ public class Demo {
         System.out.println("git修改");
         System.out.println("新代码");
         System.out.println("git的新代码");
+        System.out.println("dev的新代码");
     }
 }
